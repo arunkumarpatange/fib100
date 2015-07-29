@@ -16,3 +16,4 @@ def permutate(str):
 
 	return r
 
+print permutate("abc")

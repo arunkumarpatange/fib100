@@ -1,0 +1,5 @@
+gdata==2.0.18
+googlecl==0.9.12
+graphviz==0.4.5
+pydot2==1.0.33
+pyparsing==2.0.3

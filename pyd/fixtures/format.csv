@@ -1,0 +1,4 @@
+"column name",width,datatype
+name,10,string
+valid,1,boolean
+count,3,integer
